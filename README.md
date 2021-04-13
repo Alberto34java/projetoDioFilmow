@@ -1,0 +1,2 @@
+# projetoDioFilmow
+Projeto do BootCamp da Digital Innovation One utilizando padrão de projeto Repository Pattern com as tecnologias Asp Net Core e banco de dados Sql Server para esse pequeno projeto foi utilizado durante a construção o Code First sendo criado as migrations com suas classes de Dominio .Aplicação Console com Seus Respectivos CRUD´S não foi separado em projetos ,apenas em pastas Cada Uma Com Sua responsabilidade 
