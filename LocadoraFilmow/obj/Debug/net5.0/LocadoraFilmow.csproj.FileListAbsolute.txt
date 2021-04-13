@@ -1,0 +1,16 @@
+C:\Users\albertolacerda\Documents\Portifolio_Teste\csharp\projetoDioLocadora\projetoDioFilmow\LocadoraFilmow\bin\Debug\net5.0\LocadoraFilmow.exe
+C:\Users\albertolacerda\Documents\Portifolio_Teste\csharp\projetoDioLocadora\projetoDioFilmow\LocadoraFilmow\bin\Debug\net5.0\LocadoraFilmow.deps.json
+C:\Users\albertolacerda\Documents\Portifolio_Teste\csharp\projetoDioLocadora\projetoDioFilmow\LocadoraFilmow\bin\Debug\net5.0\LocadoraFilmow.runtimeconfig.json
+C:\Users\albertolacerda\Documents\Portifolio_Teste\csharp\projetoDioLocadora\projetoDioFilmow\LocadoraFilmow\bin\Debug\net5.0\LocadoraFilmow.runtimeconfig.dev.json
+C:\Users\albertolacerda\Documents\Portifolio_Teste\csharp\projetoDioLocadora\projetoDioFilmow\LocadoraFilmow\bin\Debug\net5.0\LocadoraFilmow.dll
+C:\Users\albertolacerda\Documents\Portifolio_Teste\csharp\projetoDioLocadora\projetoDioFilmow\LocadoraFilmow\bin\Debug\net5.0\ref\LocadoraFilmow.dll
+C:\Users\albertolacerda\Documents\Portifolio_Teste\csharp\projetoDioLocadora\projetoDioFilmow\LocadoraFilmow\bin\Debug\net5.0\LocadoraFilmow.pdb
+C:\Users\albertolacerda\Documents\Portifolio_Teste\csharp\projetoDioLocadora\projetoDioFilmow\LocadoraFilmow\obj\Debug\net5.0\LocadoraFilmow.csprojAssemblyReference.cache
+C:\Users\albertolacerda\Documents\Portifolio_Teste\csharp\projetoDioLocadora\projetoDioFilmow\LocadoraFilmow\obj\Debug\net5.0\LocadoraFilmow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\albertolacerda\Documents\Portifolio_Teste\csharp\projetoDioLocadora\projetoDioFilmow\LocadoraFilmow\obj\Debug\net5.0\LocadoraFilmow.AssemblyInfoInputs.cache
+C:\Users\albertolacerda\Documents\Portifolio_Teste\csharp\projetoDioLocadora\projetoDioFilmow\LocadoraFilmow\obj\Debug\net5.0\LocadoraFilmow.AssemblyInfo.cs
+C:\Users\albertolacerda\Documents\Portifolio_Teste\csharp\projetoDioLocadora\projetoDioFilmow\LocadoraFilmow\obj\Debug\net5.0\LocadoraFilmow.csproj.CoreCompileInputs.cache
+C:\Users\albertolacerda\Documents\Portifolio_Teste\csharp\projetoDioLocadora\projetoDioFilmow\LocadoraFilmow\obj\Debug\net5.0\LocadoraFilmow.dll
+C:\Users\albertolacerda\Documents\Portifolio_Teste\csharp\projetoDioLocadora\projetoDioFilmow\LocadoraFilmow\obj\Debug\net5.0\ref\LocadoraFilmow.dll
+C:\Users\albertolacerda\Documents\Portifolio_Teste\csharp\projetoDioLocadora\projetoDioFilmow\LocadoraFilmow\obj\Debug\net5.0\LocadoraFilmow.pdb
+C:\Users\albertolacerda\Documents\Portifolio_Teste\csharp\projetoDioLocadora\projetoDioFilmow\LocadoraFilmow\obj\Debug\net5.0\LocadoraFilmow.genruntimeconfig.cache
